@@ -1,7 +1,7 @@
 export function Store() {
   return (
     <>
-      <h1>Store</h1>
+      <h1 className='text-light'>Store</h1>
     </>
   );
 }
